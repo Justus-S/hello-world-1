@@ -1,3 +1,5 @@
 # hello-world-1
-Create public repo, commit change, 
-I love ☕ 🍕, and 💃
+
+My first repository on Github
+
+I love :coffee: :pizza:, and :dancer:.
